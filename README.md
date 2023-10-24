@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leal-4b5362193/)
 
 
-#### I work as a software engineer at Juntos Somos Mais
+#### I work as a software engineer
 </br>
 
 ![Matheus Leal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLeall&show_icons=true&theme=dark)
